@@ -2,6 +2,8 @@ RENCANA KONTEN WPU
 - Javascript
   * ES6
   * Framework Javascript
-- Struktur Data Dasar
+    > Angular
+    > React
 - PHP Framework
+  > Laravel
 - Buat website portfolio
